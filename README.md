@@ -95,7 +95,7 @@ python main.py
 4. A result window will open, and the reports (`.pdf` and `.docx`) will be saved in the same folder as your input file.
 
 <p align="center">
-  <img src="img/screen0.png" width="30%" />
+  <img src="img/screen0.png" width="31%" />
   <img src="img/screen1.png" width="30%" />
   <img src="img/screen2.png" width="30%" />
 </p>
